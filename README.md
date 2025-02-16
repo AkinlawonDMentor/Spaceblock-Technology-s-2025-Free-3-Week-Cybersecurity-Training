@@ -23,6 +23,70 @@ As we continue to expand our efforts, we remain dedicated to bridging the skills
 
 
 
+
+
+
+
+
+
+Testimonials:
+
+
+
+![image](https://github.com/user-attachments/assets/cc4b07b9-9e4c-4467-aa3e-77f72396a248)
+
+
+1. Oluyeye Mariam Adedolapo
+  
+Space block technology created a deep and strong impact on my career in cybersecurity field. The three weeks internship program I learnt about cybersecurity fundamentals in relation to real life scenarios…A big shout to my tutor he did well😇
+
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/e5a5795c-276b-4b98-8ec4-03abce4b8228)
+
+2. Akinya Joshua Oluwatomisin
+
+I’ve been able to understand cybersecurity fundamentals and fuel my interest in the field at the comfort of my home. Free of charge and the teaching standard was superb.
+
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/43ad04c1-a396-4b64-b159-082f86a3ee4a)
+
+3. IGE OLUWAFERANMI VICTOR
+
+   Space block technology has been a game-changer, providing tools and platforms that enhance learning, drive career advancement, and foster personal and professional growth.
+
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/8da27093-a5a3-4153-ae15-bbf71fc784a2)
+
+4. Samuel Ogbolu
+
+As an intern, I got hands-on experience with vulnerability assessment, phishing attack simulation detection, network security and penetration testing. The team was super supportive, and I learned so much about real-world cybersecurity applications. Overall, my internship at Spaceblock Technology has been an amazing experience. If you're a student or beginner in cybersecurity looking for hands-on experience, I highly recommend applying for opportunities like this. It’s the best way to grow and build your skills!
+
+
+
+
+
+
+
+
+
+
+
+
 This is just the beginning! More talents to train, more careers to shape, and a more secure world to build. 🚀🔒
 
 #Batch1 #TogetherWeGrow #CybersecurityExcellence #SpaceBlockTechnology #FutureCyberDefenders
