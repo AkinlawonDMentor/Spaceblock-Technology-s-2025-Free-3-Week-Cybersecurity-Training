@@ -82,6 +82,12 @@ As an intern, I got hands-on experience with vulnerability assessment, phishing 
 
 
 
+![image](https://github.com/user-attachments/assets/9ec94df0-c29c-4341-b37a-a04416913a2a)
+
+
+5. Abdulmuizz Popoola
+   Space block technology has significantly influenced learning, career paths, and personal development by providing interactive, collaborative, and skill-enhancing experiences.
+
 
 
 
