@@ -93,6 +93,25 @@ As an intern, I got hands-on experience with vulnerability assessment, phishing 
 
 
 
+
+
+![image](https://github.com/user-attachments/assets/e901e99e-a8e0-422a-9e48-8ddfdea3b1ec)
+
+
+6. Popoola Abdulsalam Temitope
+
+   I've really had my eyes opened to the dangers of the cyber world and a very strong foundation to the understanding of the cyber issues out there and the foundation on how to combat and prevent cyber crimes and issues generally.
+
+
+
+
+
+
+
+
+
+
+
 This is just the beginning! More talents to train, more careers to shape, and a more secure world to build. 🚀🔒
 
 #Batch1 #TogetherWeGrow #CybersecurityExcellence #SpaceBlockTechnology #FutureCyberDefenders
