@@ -108,6 +108,43 @@ As an intern, I got hands-on experience with vulnerability assessment, phishing 
 
 
 
+![image](https://github.com/user-attachments/assets/0095ebcd-d9c2-470d-a438-b2b5df9d38ca)
+
+
+7. Oluwadare Oyindamola oluwaseun 
+
+Space block has really be a good avenue for me to get more enlightened on cyber security related issues and it's very grate
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/55662f1b-a303-45c3-b55f-1083396742d6)
+
+
+8. Okunola
+
+The learning has impacted me greatly and  has given me deep knowledge about Cyber security, how to protect digital data, what encryption and hashing are,  how to create a strong password and storing them, how to use Nessus vulnerability scanning tools, how to generate good reports on them and categorizing them with there level of severity and also how phishing attack work.
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/3f59ce60-a2af-4aac-ad92-ac7a47b91092)
+
+
+9. Adeyinka Omotayo Ridwan
+ Space Block Technology has expanded my knowledge in emerging technologies by exposing me to advanced concepts in cyber security 
+
+
+
+
+
+
+
+
 
 
 
