@@ -42,7 +42,7 @@ Space block technology created a deep and strong impact on my career in cybersec
 
 
 
-
+<br><br>
 
 
 
@@ -54,6 +54,8 @@ I’ve been able to understand cybersecurity fundamentals and fuel my interest i
 
 
 
+
+<br><br>
 
 
 
@@ -67,6 +69,7 @@ I’ve been able to understand cybersecurity fundamentals and fuel my interest i
 
 
 
+<br><br>
 
 
 
@@ -78,7 +81,7 @@ As an intern, I got hands-on experience with vulnerability assessment, phishing 
 
 
 
-
+<br><br>
 
 
 
@@ -90,7 +93,7 @@ As an intern, I got hands-on experience with vulnerability assessment, phishing 
 
 
 
-
+<br><br>
 
 
 
@@ -105,6 +108,8 @@ As an intern, I got hands-on experience with vulnerability assessment, phishing 
 
 
 
+<br><br>
+
 
 
 
@@ -118,6 +123,9 @@ Space block has really be a good avenue for me to get more enlightened on cyber 
 
 
 
+<br><br>
+
+
 
 
 ![image](https://github.com/user-attachments/assets/55662f1b-a303-45c3-b55f-1083396742d6)
@@ -128,6 +136,8 @@ Space block has really be a good avenue for me to get more enlightened on cyber 
 The learning has impacted me greatly and  has given me deep knowledge about Cyber security, how to protect digital data, what encryption and hashing are,  how to create a strong password and storing them, how to use Nessus vulnerability scanning tools, how to generate good reports on them and categorizing them with there level of severity and also how phishing attack work.
 
 
+
+<br><br>
 
 
 
