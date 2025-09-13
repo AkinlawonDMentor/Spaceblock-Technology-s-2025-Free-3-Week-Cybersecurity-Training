@@ -23,13 +23,17 @@ As we continue to expand our efforts, we remain dedicated to bridging the skills
 
 
 
-
+<br><br>
 
 
 
 
 
 Testimonials:
+
+
+
+<br><br>
 
 
 
@@ -42,7 +46,11 @@ Space block technology created a deep and strong impact on my career in cybersec
 
 
 
+
+
 <br><br>
+
+
 
 
 
@@ -51,6 +59,7 @@ Space block technology created a deep and strong impact on my career in cybersec
 2. Akinya Joshua Oluwatomisin
 
 I’ve been able to understand cybersecurity fundamentals and fuel my interest in the field at the comfort of my home. Free of charge and the teaching standard was superb.
+
 
 
 
@@ -73,6 +82,7 @@ I’ve been able to understand cybersecurity fundamentals and fuel my interest i
 
 
 
+
 ![image](https://github.com/user-attachments/assets/8da27093-a5a3-4153-ae15-bbf71fc784a2)
 
 4. Samuel Ogbolu
@@ -85,6 +95,7 @@ As an intern, I got hands-on experience with vulnerability assessment, phishing 
 
 
 
+
 ![image](https://github.com/user-attachments/assets/9ec94df0-c29c-4341-b37a-a04416913a2a)
 
 
@@ -94,6 +105,7 @@ As an intern, I got hands-on experience with vulnerability assessment, phishing 
 
 
 <br><br>
+
 
 
 
