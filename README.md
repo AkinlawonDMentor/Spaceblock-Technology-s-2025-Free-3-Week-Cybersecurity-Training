@@ -144,10 +144,29 @@ The learning has impacted me greatly and  has given me deep knowledge about Cybe
 
 
 
+<br><br>
 
 
 
 
+
+
+Space Block Technology is a fast-growing startup IT firm committed to empowering individuals and businesses through cutting-edge technology solutions. We specialize in delivering comprehensive training programs and professional services in the areas of Software Development and Cybersecurity.
+
+Our training arm equips learners with hands-on skills in programming, application security, ethical hacking, vulnerability assessment, penetration testing, and secure system design. On the services side, we provide tailored solutions such as secure software development, system integration, security assessments, and consulting to help organizations safeguard their digital assets.
+![spaceblock technology](https://github.com/user-attachments/assets/feb86771-3da8-4a5d-b394-37fd739044e1)
+
+
+
+
+
+<br><br>
+
+
+
+
+
+By bridging the gap between innovation, skill development, and cybersecurity resilience, Space Block Technology is building the next generation of IT professionals while helping businesses thrive in today’s ever-evolving digital landscape.
 
 This is just the beginning! More talents to train, more careers to shape, and a more secure world to build. 🚀🔒
 
